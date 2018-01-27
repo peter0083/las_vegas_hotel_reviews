@@ -9,6 +9,7 @@ This repo contains a short analysis of quantitative and categorical features fro
 24 per hotel (two per each month, randomly selected), regarding the year of 2015. The CSV contains a header, with the names of the columns corresponding to the features marked Exploratory data analysis and machine learning models are built in hope to identify key features that result in high or low hotel scores. The analysis can be reproduced by cloning this repo to your local machine and executing the code cells in the ipython notebook. The dependencies of this ipython notebook is listed in this readme and also at the end of the notebook. This ipython notebook can also be found in the 'src' folder of this repo.
 
 **citation of original data**
+
 Moro, S., Rita, P., & Coelho, J. (2017). Stripping customers' feedback on hotels through data mining: The case of Las Vegas Strip. Tourism Management Perspectives, 23, 41-52.
 
 ### License
