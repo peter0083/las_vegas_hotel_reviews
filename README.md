@@ -18,7 +18,7 @@ Please see the license information [here](https://github.com/peter0083/las_vegas
 
 ### Dependencies
 
-```{bash}
+```bash
 alabaster==0.7.10
 anaconda-clean==1.0
 anaconda-client==1.6.3
