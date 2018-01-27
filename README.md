@@ -18,6 +18,8 @@ Please see the license information [here](https://github.com/peter0083/las_vegas
 
 ### Dependencies
 
+Python:
+
 ```bash
 alabaster==0.7.10
 anaconda-clean==1.0
