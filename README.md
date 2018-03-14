@@ -18,7 +18,7 @@ Please see the license information [here](https://github.com/peter0083/las_vegas
 
 ### Next Step
 
-- try NLP on the actual reviews
+Try NLP on the actual reviews
 
 ### Dependencies
 
