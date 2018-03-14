@@ -16,6 +16,10 @@ Moro, S., Rita, P., & Coelho, J. (2017). Stripping customers' feedback on hotels
 
 Please see the license information [here](https://github.com/peter0083/las_vegas_hotel_reviews/blob/master/LICENSE).
 
+### Next Step
+
+- try NLP on the actual reviews
+
 ### Dependencies
 
 Python:
